@@ -67,7 +67,7 @@ const FILES_TO_CACHE = [
   
       return;
     }
-  
+  //response
     evt.respondWith(
          caches.match(evt.request).then(response => {
            console.log(response);

@@ -14,12 +14,14 @@
 
   <title>Budget Tracker</title>
 </head>
+<!--Body-->
 <body>
   <div class="wrapper">
+    <!--Total-->
     <div class="total">
       <div class="total">Your total is: $<span id="total">0</span></div>
     </div>
-
+<!--Form-->
     <div class="form">
       <input type="text" id="t-name" placeholder="Name of transaction" />
       <input type="number" min="0" id="t-amount" placeholder="Transaction amount" />
@@ -27,7 +29,7 @@
       <button id="sub-btn"><i class="fa fa-minus"></i> Subtract Funds</button>
       <p class="error"></p>
     </div>
-
+<!--Transactions-->
     <div class="transactions">
       <table>
         <thead>
@@ -42,7 +44,7 @@
     
     <canvas id="myChart"></canvas>
   </div>
-
+<!--Script-->
   <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
   <script src="db.js"></script>
   <script src="index.js"></script>

@@ -6,7 +6,6 @@ fetch("/api/transaction")
     return response.json();
   })
   .then(data => {
-    // save db data on global variable
     transactions = data;
 
     populateTotal();
@@ -35,7 +34,7 @@ function populateTable() {
       <td>${transaction.name}</td>
       <td>${transaction.value}</td>
     `;
-
+//append
     tbody.appendChild(tr);
   });
 }
