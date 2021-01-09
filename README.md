@@ -34,7 +34,7 @@ AS AN avid traveller I WANT to be able to track my withdrawals and deposits with
 
 ## Usage
 
-Go to [Budget App](https://XXXXXXXXX.herokuapp.com) and control your expenses
+Go to [Budget App](https://aanness-progressive-budget.herokuapp.com/) and control your expenses
 
 ## Licence
 
@@ -44,7 +44,7 @@ Go to [Budget App](https://XXXXXXXXX.herokuapp.com) and control your expenses
 ## Repository
 
 - [Project Repo](https://github.com/aanness/progressiveBudget)
-- [Budget App](https://XXXXXXXXXXX.herokuapp.com)
+- [Budget App](https://aanness-progressive-budget.herokuapp.com/)
 
 ## GitHub
 
