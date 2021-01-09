@@ -43,7 +43,7 @@ Go to [Budget App](https://XXXXXXXXX.herokuapp.com) and control your expenses
 
 ## Repository
 
-- [Project Repo](https://github.com/XXXXXXXXXXXX)
+- [Project Repo](https://github.com/aanness/progressiveBudget)
 - [Budget App](https://XXXXXXXXXXX.herokuapp.com)
 
 ## GitHub
